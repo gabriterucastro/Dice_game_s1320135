@@ -1,4 +1,4 @@
-# Dice_game_s1320135
+# DiceGame
 
 import java.util.Random;
 import java.util.Scanner;
