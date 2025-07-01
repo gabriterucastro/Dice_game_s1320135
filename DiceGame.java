@@ -1,6 +1,8 @@
 import java.util.Random;
 public class DiceGame {
    public static void main(String[] args) {
+    
+
         System.out.println("Rolling dice...");
         Random rnd = new Random();
         int d1 = rnd.nextInt(6) + 1;
